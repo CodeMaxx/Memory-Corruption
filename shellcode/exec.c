@@ -2,7 +2,7 @@
 
 int main()
 {
-	char buffer[100];
+	char buffer[64];
 	gets(buffer);
 	return 0;
 }

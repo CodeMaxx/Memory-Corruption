@@ -1,0 +1,1 @@
+(py payload.py; cat -) | ../../fixenv/r.sh ./exec

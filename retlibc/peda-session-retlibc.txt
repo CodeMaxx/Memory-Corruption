@@ -1,4 +1,0 @@
-break *system
-disable $bpnum
-tbreak main
-
