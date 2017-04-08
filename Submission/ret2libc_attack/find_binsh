@@ -1,0 +1,2 @@
+strings -a -t x /lib32/libc-2.24.so | grep /bin/sh
+

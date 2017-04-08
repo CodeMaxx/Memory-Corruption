@@ -1,0 +1,2 @@
+gcc -m32 -o exec -z execstack -fno-stack-protector exec.c -mpreferred-stack-boundary=2 -g
+
