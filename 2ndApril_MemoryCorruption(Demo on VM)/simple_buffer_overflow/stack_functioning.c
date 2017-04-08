@@ -7,7 +7,7 @@ void f() {
   int* ptr;
   int buf[10];
   ptr = buf + 14;
-  (*ptr) += 2;
+  (*ptr) += 10;
 }
 
 int main() {
@@ -17,3 +17,5 @@ int main() {
   printf("... May be not\n");
 
 }
+
+// The return pointer is changed so as to skip the second printf

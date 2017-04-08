@@ -24,3 +24,5 @@ int main() {
   }
 
 }
+
+// Give input string of more than 4 characters
